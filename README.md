@@ -1,4 +1,4 @@
 Hello-World
 ===========
 
-My first Github program.
+My first program hosted on Github.
